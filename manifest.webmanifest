@@ -1,0 +1,26 @@
+{
+  "id": "./index.html",
+  "name": "STICKFRONT — 火柴人戰鬥沙盒",
+  "short_name": "STICKFRONT",
+  "description": "STICKFRONT v1.5 雙隊火柴人 AI 物理戰鬥沙盒",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#07111b",
+  "theme_color": "#07111b",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
